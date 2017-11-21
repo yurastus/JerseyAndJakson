@@ -5,6 +5,8 @@ import com.rest.model.Project;
 
 public class EmployeeUtils {
 
+    public static final String TEST_NAME = "McGregor";
+    public static final String EMPLOYEE_JSON = "Employee.json";
     public static final String EMPLOYEE_URL = "employee/";
 
 
